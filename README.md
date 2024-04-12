@@ -3,7 +3,7 @@
 - 👀 I’m interested in improving my hard skills on Software Engineering!
 - 📫 You can reach me by my [LinkedIn account](https://www.linkedin.com/in/mariana-ahenriques/details).
 - :blue_book: You can also check my blog at [Medium](https://medium.com/@mmhqs) and see my opinions on tech events, books I've read and learning goals.
-- :newspaper: Now reading: Life 3.0: Being Human in the Age of Artificial Intelligence (Max Tegmark).
+- :newspaper: Now reading: "Life 3.0: Being Human in the Age of Artificial Intelligence" (Max Tegmark).
 
 ---
 
