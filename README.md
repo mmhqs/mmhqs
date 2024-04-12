@@ -16,6 +16,7 @@
 ### 🛠️ Technologies & Tools
 - I’m currently learning Object-Oriented Programming in Java. I'm also interested in Python and back-end functions.
 - I've just finished a course on cybersecurity fundamentals offered by the [Ministério da Ciência, Tecnologia e Inovação](https://www.gov.br/mcti/pt-br).
+- I'm participating in DIO's Python AI Backend Developer Bootcamp.
 
 ---
 
