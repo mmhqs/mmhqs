@@ -13,6 +13,14 @@
   
 ---
 
+### :books: Study repositories
+I've just started some repositories to share my studying process here on GitHub. 
+They're still a work in progress but you can check them out!
+- Algorithms: [study-algorithms](https://github.com/mmhqs/study-algorithms)
+- Learning Tips: [my-software-learning-tips](https://github.com/mmhqs/my-software-learning-tips)
+
+---
+
 ### 🛠️ Technologies & Tools
 - I’m currently learning Object-Oriented Programming in Java. I'm also interested in Python and back-end functions.
 - I've just finished a course on cybersecurity fundamentals offered by the [Ministério da Ciência, Tecnologia e Inovação](https://www.gov.br/mcti/pt-br).
