@@ -1,10 +1,10 @@
 # 👋 Hi, I’m Mariana!
 ### Software Engineering Student | Curious to learn | Blogger
 - 👀 I’m interested in improving my hard skills on Software Engineering!
-- 📫 You can reach me by my [LinkedIn account](https://www.linkedin.com/in/mariana-ahenriques/details).
-- :blue_book: You can also check my blog at [Medium](https://medium.com/@mmhqs) and see my opinions on tech events, books I've read and learning goals.
+- :blue_book: You can check my blog at [Medium](https://medium.com/@mmhqs) and see my opinions on tech events, books I've read and learning goals.
 - :newspaper: Now reading: "Life 3.0: Being Human in the Age of Artificial Intelligence" (Max Tegmark).
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ahenriques/) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmhqs)
 ---
 
 ### 💼 Professional Experience
