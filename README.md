@@ -8,9 +8,7 @@
 ---
 
 ### 💼 Professional Experience
-- I'm currently transitioning from a career in Civil Engineering to the world of technology!
-- Right now I'm looking for intern opportunities on software development :)
-- Also, I’m looking to collaborate on begginer level projects and to improve my hard skills.
+- Currently working as a software development intern @ DTI Digital.
   
 ---
 
