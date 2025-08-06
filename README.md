@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mariana!
 ### Software Engineering Student | Curious to learn | Blogger
 - 👀 I’m interested in improving my hard skills on Software Engineering!
-- :blue_book: You can check my blog at [Medium](https://medium.com/@mmhqs) and see my opinions on tech events, books I've read and learning goals.
+- :blue_book: You can check my [blog](https://mariscript.blog) and see my opinions on tech events, books I've read and learning goals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ahenriques/) [![Medium](https://img.shields.io/badge/-Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mmhqs)
 ---
