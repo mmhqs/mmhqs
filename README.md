@@ -11,9 +11,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-- I’m currently workint with Typescript (React).
-- I've just finished a course on cybersecurity fundamentals offered by the [Ministério da Ciência, Tecnologia e Inovação](https://www.gov.br/mcti/pt-br).
-
+- I’m currently working with Typescript (React).
 ---
 
 ### 📈 GitHub Stats
