@@ -5,13 +5,10 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ahenriques/)
 
-### 💼 Professional experience
+### 💼 Professional experience and techonologies
 - Currently working as a software engineering intern @ Hotmart.
+- Currently working with Typescript (React).
   
----
-
-### 🛠️ Technologies & Tools
-- I’m currently working with Typescript (React).
 ---
 
 ### 📂 Some of my repos
