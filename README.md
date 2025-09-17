@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Mariana!
-### Software Engineering student | Curious to learn | Blogger
+### Software Engineer | Curious to learn | Blogger
 - 👀 I’m interested in improving my hard skills on Software Engineering!
 - :blue_book: You can check my [blog](https://mariscript.blog) and see my opinions on tech events, books I've read and learning goals.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-ahenriques/)
 
 ### 💼 Professional experience and techonologies
-- Currently working as a software engineering intern @ Hotmart.
+- Currently working as a software engineer @ [Hotmart](https://www.linkedin.com/company/hotmart/posts/?feedView=all).
 - Currently working with Typescript (React).
   
 ---
